@@ -1,8 +1,8 @@
 {
-  "name": "october",
+  "name": "vue-bulma-theme-picker",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Adam Woodbury <adamwoodbury@gmail.comm>",
+  "author": "autumn woodberry",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",

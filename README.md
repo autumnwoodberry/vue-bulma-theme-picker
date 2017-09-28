@@ -1,4 +1,4 @@
-# october
+# vue-bulma-theme-picker
 
 > A Vue.js project
 
